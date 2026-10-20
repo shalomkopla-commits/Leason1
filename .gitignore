@@ -6,6 +6,17 @@ Desktop.ini
 # Logs
 *.log
 
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
 # Environment variables
 .env
 .env.*
